@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.title{
+    font-size: 32px;
+    font-weight: bold;
+}
